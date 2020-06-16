@@ -2,7 +2,7 @@
 
 ©knifefire著，转载请注明出处哦？
 
-[点此加作者QQ]（https://qm.qq.com/cgi-bin/qm/qr?k=Szsivzw2KftjG15S0SFyNSK0kVLeej9B&noverify=0）
+ [点此加作者QQ](https://qm.qq.com/cgi-bin/qm/qr?k=Szsivzw2KftjG15S0SFyNSK0kVLeej9B&noverify=0）
 
 本章入门介绍希望能帮助到各位快速了解并上手LINUX操作系统，在学习的过程希望大家不要只停留在命令的维度上（LINUX主要是在命令行窗口操作执行指令，虽然也有图形界面），而是更多的关注如何去使用LINUX系统的方法。
 
